@@ -3,7 +3,7 @@
 * Campus Coração Eucarístico
 * Engenharia da Computação
 * 1° Semestre
-* Laboratório de introduação à Engenharia da Computação
+* Laboratório de introdução à Engenharia da Computação
 
 
 ## Integrantes
@@ -15,7 +15,7 @@
 
 ## Orientador
 
-* Martha Dias Nogueira Noronha
+* Marta Dias Moreira Noronha
 
 
 ## Resumo
