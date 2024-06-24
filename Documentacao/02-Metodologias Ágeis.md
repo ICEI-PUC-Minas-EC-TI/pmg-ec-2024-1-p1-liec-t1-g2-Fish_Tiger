@@ -3,16 +3,19 @@
 
 # Metodologia
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+Nas primeiras etapas do projeto, nos juntamos pra decidir o que seria feito e como fariamos a montagem do projeto.
+Idealizção;
+Realização;
+Inicio da montagem;
+Inicio das linhas de código;
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+Não ultizimos uma divisão papéis individuais, todos participamos juntos de todo o processo. Desde o BrainStorm até a criação do primeiro protótipo.
 
-Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
-- Scrum Master: Aluno 1;
-- Equipe de Desenvolvimento: Aluno 1, Aluno 2, Aluno 3;
-
+Montagem e desenvolvimento de código: Desenvolvemos um protótipo báciso porém não com todas as funcionalidades que idealizamos.
+- Scrum Master: João Miguel, Hebert Roger, Yago Vinícius;
+- Equipe de Desenvolvimento:  João Miguel, Hebert Roger, Yago Vinícius;
 
 ### Processo
 
@@ -23,4 +26,4 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 
 As ferramentas utilizadas no projeto foram:
 
-- Liste aqui as ferramentas utilizadas para desenvolvimento do projeto (como por exemplo: Arduino IDE, APP Inventor, trello e outros). Obs: não é para listar aqui os componentes utilizados.
+-  Arduino IDE, APP Inventor, Discord, GitHub, TinkerdCad.
