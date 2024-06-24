@@ -20,9 +20,9 @@ Primeiros passos:
 Configuração do aplicativo:
 (Tenha certeza de que o bluetooth está ativado durante o uso do app)
 
-  1° Passo: Selecione "Fish Tiger" na lista de seleção no canto superior da tela, e aguarde até que a mensagem de "Desconectado" se torne "Conectado".
+  **1° Passo:** Selecione "Fish Tiger" na lista de seleção no canto superior da tela, e aguarde até que a mensagem de "Desconectado" se torne "Conectado".
   Após realizada a conexão, você pode pressionar o botão de ação no centro da tela (imagem de peixe) para iniciar a sequência manual de troca de água.
 
-  2° Passo: Pressione o botão de "Seleção de pH" na parte inferior da tela e então mova o deslizador para esquerda ou direita para alterar o padrão de pH da água. Pressione o botão de "Confirmar" para salvar o valor e o enviar ao Fish Tiger.
+  **2° Passo:** Pressione o botão de "Seleção de pH" na parte inferior da tela e então mova o deslizador para esquerda ou direita para alterar o padrão de pH da água. Pressione o botão de "Confirmar" para salvar o valor e o enviar ao Fish Tiger.
 
-  Considerações finais: Deve-se consultar o valor adequado de acidez para o ajuste do aquário, uma vez que níveis inadequados de pH na água podem resultar no óbito dos seres viventes no aquário.
+  **Considerações finais:** Deve-se consultar o valor adequado de acidez para o ajuste do aquário, uma vez que níveis inadequados de pH na água podem resultar no óbito dos seres viventes no aquário.
