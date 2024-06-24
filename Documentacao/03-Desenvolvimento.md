@@ -9,7 +9,9 @@ Os materiais utilizados no projeto foram:
 - 1 Sensor de umidade;
 - 1 Sensor de PH;
 - 2 Compartimentos de água;
-- 
+- Notebook;
+- Dispersor de ração;
+  
 # Desenvolvimento
 
 
