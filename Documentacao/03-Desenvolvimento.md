@@ -2,11 +2,16 @@
 # Materiais
 
 Os materiais utilizados no projeto foram:
-- Liste os materiais usados no projeto, como Arduino/ESP, sensores, atuadores e outros.
-
+- 1 ESP32;
+- 1 Protoboard;
+- Vários fios;
+- 2 Servos motores;
+- 1 Sensor de umidade;
+- 1 Sensor de PH;
+- 2 Compartimentos de água;
+- 
 # Desenvolvimento
 
-Descreva aqui como foi o desenvolvimento do trabalho, destacando cada uma das etapas necessárias para chegar até a solução final.
 
 ## Desenvolvimento do Aplicativo
 
