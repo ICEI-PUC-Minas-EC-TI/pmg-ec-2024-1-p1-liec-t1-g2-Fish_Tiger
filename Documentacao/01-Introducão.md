@@ -1,17 +1,18 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O projeto FishTiger tem como objetivo fornece um produto eficiente e compacto para um púlbico especícifo, apreciadores de aquários. Fish Tiger é um projeto idealizados pelo nosso grupo com obejetivo de fornecer um cuidado e atenção especial para o público. Aqueles que desejam criar algumas espécies de peixinhos de aquário e não possuem um tempo adequado para o cuidado com o animal, ou até mesmo, caso precise se distanciar por curtos ou longos períodos de seu lar. O projeto tem como objetivo cuidar de forma única dos peixinhos. Contendo um dispersor de ração, controle de acidez da água, trocas frequentes da água com o objetivo de controlar o PH da água e remover a ração não consumida pelos peixes para que sempre , a água do aquário, esteja em perfeitas condições para os peixes. 
 
 ## Problema
+
+Na época de fim de ano, é bastante comum realizar viagens e passeios. Como grande parte da população brasileira possui animais de estimação, fica a dúvida de como lidar com o tempo fora. Alguns optam por levar seu bichinho junto, mas nem sempre é possível, então qual a melhor opção nesse caso? Deixar com um amigo? Tentar levar mesmo com tantas dificuldades a frente ? Como transportar um aquário de forma segura ? Deixar com um amigo, como vou saber ele está cuidando de forma correta ?
 
 Nesse momento você deve apresentar o problema que o seu projeto deve  resolver. Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. 
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um projeto para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Propocionar cuidados aos  para que o usurário do FishTiger para que tenham a melhor experiência com o cuidado e atenção, nesse caso, aos peixes de aquário. Com total apoio ao seu dono e aos peixes o FishTiger garante total atenção e controle de qualidade do ambiente, efetuanto trocas de água quando necessário e um dispersor de ração, matendo o/os peixe/es no melhor ambiente possível. 
  
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão o projeto. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, etc.
+O  FishTiger é para aqueles que possuem ou desejam possuir um aquario em casa, porém não possuem tanto tempo para o cuidado, ou viajam bastante e desejam um ambiente automatizado, que pode ser controlado a longas distâncias pelo smartphone ou tablets. Pormovendo uma assistência para o animal, de qualquer lugar, a qualquer hora.
+O sistema permite que o usuãrio tenha controle do dispersor de ração e trocas de água do aquário. 
