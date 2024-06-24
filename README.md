@@ -25,8 +25,41 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 # Código (do arduino ou esp32)
 
-<li><a href="Codigo/README.md"> Código Fonte (.ino)</a></li>
+#include <ESP32Servo.h>
+ 
+Servo myservo;  // Cria objeto myservo
+int servoPin = 25;
+char funcao = 2;
 
+void setup() {
+  ESP32PWM::allocateTimer(0);
+  ESP32PWM::allocateTimer(1);
+  ESP32PWM::allocateTimer(2);
+  ESP32PWM::allocateTimer(3);
+  myservo.setPeriodHertz(50);    // standard 50 hz servo
+  myservo.attach(servoPin, 500, 2400); // Relaciona o servo ao pino selecionado
+}
+
+void tanque(char ent)
+{
+  switch(ent)
+  {
+    case '1': // Tanque enxendo 
+      myservo.write(90);
+      break;
+    case '2': // Tanque estável
+      myservo.write(0);
+      break;
+    case '3': // Tanque esvaziando
+      break;
+  }
+}
+
+void loop() {
+  if(Bluetooth.available() > 0)
+     funcao = Bluetooth.Read();
+  tanque(funcao);
+}
 
 # Aplicativo para Smartphone
 
