@@ -25,4 +25,4 @@ Configuração do aplicativo:
 
   **2° Passo:** Pressione o botão de "Seleção de pH" na parte inferior da tela e então mova o deslizador para esquerda ou direita para alterar o padrão de pH da água. Pressione o botão de "Confirmar" para salvar o valor e o enviar ao Fish Tiger.
 
-  **Considerações finais:** Deve-se consultar o valor adequado de acidez para o ajuste do aquário, uma vez que níveis inadequados de pH na água podem resultar no óbito dos seres viventes no aquário.
+  **Considerações finais:** Deve-se consultar o valor adequado de acidez para o ajuste do aquário conforme a natureza de seus habitantes, uma vez que níveis inadequados de pH na água podem prejudicar a qualidade de vida dos seres viventes na mesma.
