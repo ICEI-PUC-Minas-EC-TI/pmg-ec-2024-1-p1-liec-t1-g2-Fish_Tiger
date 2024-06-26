@@ -39,7 +39,12 @@ Diversos componenetes do projeto já eram de posse de membros do grupo, tendo si
 
 ### Montagem
 
-Descreva como foi o processo da montagem do projeto.
+O processo de montagem se apresentou o maior desafio em função da entrada e saída água, impossibilitando a passagem para o próximo tópico.
+Foram várias tentativas de adaptção para que consegu~issemos pelo menos um protõtipo funcional.
+A arquitetura do projeto, de certa forma, é o maior de desafio do trabalho, para que as funcionalidades do aquário sejam coerentes e funcionais. 
+O reservatótio precisa de um suporte acima do aquário e um suporte para o aquário de forma que o segundo motor fique em uma posição favorável para o segundo servo-motor e com espaços laterais que comportem os outros dois medidores, sendo o de umidade e o de PH. 
+Um protótipo foi criado com dois servos motores para fazer a entrada de água a partir do celular, através do AppInventor.
+
 
 ### Desenvolvimento do Código
 
