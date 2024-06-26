@@ -4,9 +4,7 @@ O projeto FishTiger tem como objetivo fornece um produto eficiente e compacto pa
 
 ## Problema
 
-Na época de fim de ano, é bastante comum realizar viagens e passeios. Como grande parte da população brasileira possui animais de estimação, fica a dúvida de como lidar com o tempo fora. Alguns optam por levar seu bichinho junto, mas nem sempre é possível, então qual a melhor opção nesse caso? Deixar com um amigo? Tentar levar mesmo com tantas dificuldades a frente ? Como transportar um aquário de forma segura ? Deixar com um amigo, como vou saber ele está cuidando de forma correta ?
-
-Nesse momento você deve apresentar o problema que o seu projeto deve  resolver. Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. 
+A 
 
 ## Objetivos
 
