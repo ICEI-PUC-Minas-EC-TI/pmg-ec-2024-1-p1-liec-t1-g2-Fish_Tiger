@@ -20,7 +20,7 @@
 
 ## Resumo
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+No Brasil, aproximadamente 1/5 da população realiza viagens de 11 dias ou mais pelo menos uma vez por ano, e além disso, mais de 11 milhões de pessoas são aquarístas (possuem peixes domésticos) neste mesmo país. Sendo assim, vista a necessidade de realizar a manutenção nos aquários domésticos durante os períodos em que seus respectivos donos estão realizando viagens de longa duração, o projeto Fish-Tiger tem como objetivo eliminar essas preocupações e garantir qualidade de vida para os peixes criados em aquários, realizando troca de água quando houver alterações no pH da mesma.
 
 
 # Código (do arduino ou esp32)
