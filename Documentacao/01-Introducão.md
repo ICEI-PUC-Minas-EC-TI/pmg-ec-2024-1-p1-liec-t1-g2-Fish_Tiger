@@ -4,7 +4,11 @@ O projeto FishTiger tem como objetivo fornece um produto eficiente e compacto pa
 
 ## Problema
 
-A 
+O brasileiro tem uma grande paixão pelos peixes ornamentais, o que é chamado de aquarismo. De acordo com o IBGE – Instituto Brasileiro de Geografia e Estatística, cerca de 11 milhões de pessoas têm ativos em casa no País. E cerca de um quinto da população viaja pelo menos uma vez por ano, o famoso período de férias. Contudo, cerca de 11 milhões de brasileiros possuem aquários em suas casas. Com isso se desenvolve um problema de cuidado ao peixe, geralmente procuramos amigos ou pessoas próximas para que possam cuidar. Contudo, nem sempre conseguimos alguém ideial para deixar nossos peixes.
+Em função disso, decidimos criar um projeto voltado a esse público. O FishTiger, que extingue a necessidade de total atenção dos donos de aquários, vem com uma solução simples e inovadora baseado nos outros produtos de aquários. Por enquanto, não existem aquário totalmente automatizados ou até mesmo com um aplicativo para gerenciamento e acompanhamento do ambiente dos peixes. 
+Para total cuidado de aquário é preciso fazer trocas de água frequentes para controlar o nível de acidez da água. A ração é uma da principais causas da alteração do PH(acidez da água). No entanto, FishTiger, já foi desenvolvido com o intuito controlar a entrada e saída de água em função do PH. 
+Realizando trocas frequentes de água, em função do nível de acidez ou de forma manual, caso o dono deseje.
+O aplicativo desenvolvido permite ao dono verificar o nível de PH da água e realizar a troca de água através do aplicativo, caso o dono não efetue a troca, o FishTiger fará automaticamente.
 
 ## Objetivos
 
