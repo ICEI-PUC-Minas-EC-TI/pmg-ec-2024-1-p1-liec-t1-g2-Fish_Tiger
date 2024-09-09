@@ -3,7 +3,7 @@
 * Campus Coração Eucarístico
 * Engenharia da Computação
 * 1° Semestre
-* Laboratório de introdução à Engenharia da Computação
+* Laboratório de introdução à Engenharia da Computação, Algoritmos e Estruturas de Dados I, Introdução à Computação
 
 
 ## Integrantes
@@ -16,6 +16,8 @@
 ## Orientador
 
 * Marta Dias Moreira Noronha
+* Sandro Jerônimo de Almeida
+* Naísses Zóia Lima
 
 
 ## Resumo
